@@ -1,0 +1,23 @@
+[
+  {
+    "name": "RECIPE_NAME_1",
+    "consists": [
+      "milk",
+      "tomato"
+    ]
+  },
+  {
+    "name": "RECIPE_NAME_2",
+    "consists": [
+      "cheese",
+      "tomato"
+    ]
+  },
+  {
+    "name": "RECIPE_NAME_3",
+    "consists": [
+      "milk",
+      "tomato"
+    ]
+  }
+]
